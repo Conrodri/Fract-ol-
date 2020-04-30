@@ -14,7 +14,7 @@ Zoom and unzoom.
 
 ## How to use ?
 
-![](how2use.png)
+![](png/how2use.png)
 
 ## Pictures
 ### Mandelbrot
