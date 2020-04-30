@@ -14,19 +14,23 @@ Zoom and unzoom.
 
 ## How to use ?
 
-![]how2use.png
+![](how2use.png)
 
 ## Pictures
 ### Mandelbrot
 
-![]mandelbrot.png
-![]mandelbrotlowiterations.png
-![]mandelbrotzoom.png
+![](png/mandelbrot.png)
+
+![](png/mandelbrotlowiterations.png)
+
+![](png/mandelbrotzoom.png)
 
 ### Julia
-![]julia.png
-![]otherjulia.png
+![](png/julia.png)
+
+![](png/otherjulia.png)
 
 ### BurningShip
-![]burningship.png
-![]burningshipzoom.png
+![](png/burningship.png)
+
+![](png/burningshipzoom.png)
