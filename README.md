@@ -14,23 +14,19 @@ Zoom and unzoom.
 
 ## How to use ?
 
-```
-$> make
-$> ./fractol mandelbrot
-$> ./fractol julia
-$> ./fractol burning
-```
+![]how2use.png
 
 ## Pictures
 ### Mandelbrot
 
-![alt tag](https://raw.githubusercontent.com/GlThibault/pics/master/fractol_mandelbrot.png)
-![alt tag](https://raw.githubusercontent.com/GlThibault/pics/master/fractol_mandelbrot2.png)
+![]mandelbrot.png
+![]mandelbrotlowiterations.png
+![]mandelbrotzoom.png
 
 ### Julia
-![alt tag](https://raw.githubusercontent.com/GlThibault/pics/master/fractol_julia.png)
-![alt tag](https://raw.githubusercontent.com/GlThibault/pics/master/fractol_julia2.png)
+![]julia.png
+![]otherjulia.png
 
 ### BurningShip
-![alt tag](https://raw.githubusercontent.com/GlThibault/pics/master/fractol_burningship.png)
-![alt tag](https://raw.githubusercontent.com/GlThibault/pics/master/fractol_burningship2.png)
+![]burningship.png
+![]burningshipzoom.png
